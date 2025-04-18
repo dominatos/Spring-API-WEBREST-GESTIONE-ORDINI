@@ -39,7 +39,7 @@ Implementare il controller ProductController con i seguenti endpoint:
     DELETE /products/{id} → elimina un prodotto.
 
 Usare Postman per testare le API.
-
+(Postman collections sono al root cartella di progetto github)
 
 Extra
 L’applicazione avrà le seguenti entità con relazioni tra loro:
