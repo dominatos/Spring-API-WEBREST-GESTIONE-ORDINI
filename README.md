@@ -1,4 +1,4 @@
-# Spring-API-REST-GESTIONE-ORDINI
+# Spring-API-WEBREST-GESTIONE-ORDINI
 
  
 Creazione di un'API REST con Spring Boot e Spring Data JPA
