@@ -1,6 +1,6 @@
 # Spring-API-WEBREST-GESTIONE-ORDINI
 
- 
+ <pre>
 Creazione di un'API REST con Spring Boot e Spring Data JPA
 Utilizzare Spring Boot per configurare il progetto.
 Includere le dipendenze necessarie in Maven
@@ -83,3 +83,4 @@ OrderController
     GET /orders/user/{userId} → Restituisce gli ordini di un utente.
 
 Usare Postman per testare le API.
+</Order>pre>
