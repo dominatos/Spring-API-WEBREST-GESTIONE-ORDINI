@@ -1,4 +1,5 @@
-# SpringWEbORDINI
+# Spring-API-REST-GESTIONE-ORDINI
+
  
 Creazione di un'API REST con Spring Boot e Spring Data JPA
 Utilizzare Spring Boot per configurare il progetto.
