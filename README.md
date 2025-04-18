@@ -1,6 +1,6 @@
-# Spring-API-REST-GESTIONE-ORDINI
+# Spring-API-WEBREST-GESTIONE-ORDINI
 
- 
+ <pre>
 Creazione di un'API REST con Spring Boot e Spring Data JPA
 Utilizzare Spring Boot per configurare il progetto.
 Includere le dipendenze necessarie in Maven
@@ -39,7 +39,8 @@ Implementare il controller ProductController con i seguenti endpoint:
     DELETE /products/{id} → elimina un prodotto.
 
 Usare Postman per testare le API.
-
+(Postman collections sono al root cartella di progetto github)
+https://www.postman.com/
 
 Extra
 L’applicazione avrà le seguenti entità con relazioni tra loro:
@@ -82,3 +83,6 @@ OrderController
     GET /orders/user/{userId} → Restituisce gli ordini di un utente.
 
 Usare Postman per testare le API.
+
+
+<pre>
